@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parsaghiasy
-- 👀 I’m interested in android programming
-- 🌱 I’m currently learning java
+- 👀 I’m interested in back-end programming
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
